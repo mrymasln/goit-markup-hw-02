@@ -29,13 +29,13 @@ body {
     text-decoration: none;
     letter-spacing: 0.02em;
 }
-.part-1 {
+.Part-1 {
     background-color: #2e2f42;
     width: 1440px;
     height: 600px;
     top: 72px;
 }
-.part-2.1 {
+.Part-1-1 {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
@@ -43,14 +43,14 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
 }
-.part-2.2 {
+.Part-1-2 {
     background-color: #4d5ae5;
     width: 169px;
     height: 56px;
     cursor: pointer;
     font-weight: 500;
     color: #ffffff;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
 }
 .part-3 > ul {
