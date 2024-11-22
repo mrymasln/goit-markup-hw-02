@@ -1,15 +1,17 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
+    background-color: #ffffff;
 }
 .webstudio {
     font-family: "Raleway", sans-serif;
-    color: 4d5ae5;
+    color: #4d5ae5;
     font-size: 18px;
     font-weight: 700;
-    line-height: 21px;
+    line-height: 1.17;
     text-decoration: none;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
 }
 .link {
     font-size: 16px;
@@ -19,13 +21,13 @@ body {
     color: #2e2f42;
     text-decoration: none;
 }
-.address {
+.link-2 {
     color: #434455;
     font-size: 16px;
     line-height: 24px;
     font-family: "Roboto", sans-serif;
     text-decoration: none;
-    font-style: normal;
+    letter-spacing: 0.02em;
 }
 .part-2 {
     background-color: #2e2f42;
@@ -33,15 +35,15 @@ body {
     height: 600px;
     top: 72px;
 }
-.part-2 > h1 {
+.part-2.1 {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
-    letter-spacing: 2%;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
     text-align: center;
 }
-.part-2 > button {
+.part-2.2 {
     background-color: #4d5ae5;
     width: 169px;
     height: 56px;
@@ -49,6 +51,7 @@ body {
     font-weight: 500;
     color: #ffffff;
     line-height: 24px;
+    letter-spacing: 0.04em;
 }
 .part-3 > ul {
     list-style-type: none;
@@ -56,8 +59,8 @@ body {
 .part-3 > h3 {
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 .part-3 > p {
     font-size: 16px;
