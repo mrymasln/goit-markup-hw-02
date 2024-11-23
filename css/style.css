@@ -19,6 +19,9 @@ body {
 .webstudio:hover {
     color: #404bbf;
 }
+.webstudio:focus {
+    color:#404bbf;
+}
 
 
 
@@ -26,10 +29,14 @@ body {
 .link {
     font-size: 16px;
     font-weight: 500;
-    line-height: 0.02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     list-style-type: none;
     color: #2e2f42;
     text-decoration: none;
+}
+.link:hover {
+    #404bbf
 }
 .link:focus {
     color: #404bbf;
@@ -48,7 +55,9 @@ body {
     color:#434455;
     letter-spacing: 0.02em;
 }
-
+.adres:hover {
+    color: #404bbf;
+}
 .adres:focus {
     color: #404bbf;
 }
@@ -57,7 +66,7 @@ body {
 
 
 
-.Effective {
+.effective {
     background-color: #2e2f42;
     width: 1440px;
     height: 600px;
@@ -113,7 +122,7 @@ body {
 .team {
     background-color: #f4f4fd;
 }
-.teamh2 {
+.team-baslik {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -159,11 +168,11 @@ body {
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.part-4-3 {
+.portfoliop {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: 434455;
+    color: #434455;
 }
 
 
