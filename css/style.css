@@ -11,7 +11,7 @@ body {
     line-height: 1.17;
     text-decoration: none;
     text-transform: uppercase;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.03em;
 }
 .webstudio:hover {
     color: #404bbf;
@@ -62,19 +62,27 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.part-3 > ul {
+.part-1-2:hover {
+    background-color: #404bbf;
+}
+.Part-1-2:focus {
+    background-color: #404bbf;
+}
+
+.part-2 > ul {
     list-style-type: none;
 }
-.part-3 > h3 {
+.part-2-1 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
-.part-3 > p {
+.part-2-2 {
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .part-4 > h2 {
     font-weight: 700;
