@@ -100,10 +100,7 @@ body {
 
 
 
-.About > ul {
-    list-style-type: none;
-}
-.Abouth3 {
+.about-baslik {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -134,14 +131,14 @@ body {
 .teamli {
     background-color: #ffffff;
 }
-.teamh3 {
+.team-isim {
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.teamp {
+.team-p {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
