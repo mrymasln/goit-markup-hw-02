@@ -26,30 +26,38 @@ body {
 .link {
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+    line-height: 0.02em;
     list-style-type: none;
     color: #2e2f42;
     text-decoration: none;
 }
-.link:hover {
+.link:focus {
     color: #404bbf;
 }
 .link:active {
     color: #404bbf;
 }
-.link-2 {
+
+
+
+
+.adres {
     color: #434455;
     font-size: 16px;
-    line-height: 24px;
-    font-family: "Roboto", sans-serif;
-    text-decoration: none;
+    line-height: 1.5;
+    color:#434455;
     letter-spacing: 0.02em;
+}
+
+.adres:focus {
+    color: #404bbf;
 }
 
 
 
 
-.Part {
+
+.bölüm1 {
     background-color: #2e2f42;
     width: 1440px;
     height: 600px;
@@ -73,10 +81,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.part-1-2:hover {
+.buton:hover {
     background-color: #404bbf;
 }
-.Part-1-2:focus {
+.buton:focus {
     background-color: #404bbf;
 }
 
