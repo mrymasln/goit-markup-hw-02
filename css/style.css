@@ -36,7 +36,7 @@ body {
     text-decoration: none;
 }
 .link:hover {
-    #404bbf
+    color: #404bbf
 }
 .link:focus {
     color: #404bbf;
@@ -155,7 +155,7 @@ body {
     text-transform: capitalize;
     color:#2e2f42;
 }
-.portfolioh3 {
+.portfolio-is {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
